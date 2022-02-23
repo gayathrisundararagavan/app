@@ -1,0 +1,35 @@
+body{
+  background-color:#EEEEEE;
+  position: relative;
+}
+.props{
+  background-color: white;
+  marging-top: 4%;
+  padding: 4%;
+}
+.hone{
+  background-color:white;
+  padding:1rem 2rem;
+  position: absolute;
+  display: inline-block;
+  left: 21%;
+  text-align: left;
+
+}
+.h1one{
+  line-height: 2;
+  font-size: 1rem;
+  font-family: cursive;
+  text-align: left;
+  display: inline-block;
+  position: absolute;
+  left: 23%;
+  top:43%;
+}
+.one{
+  width: 13rem;
+  position: relative;
+  left:  2%;
+  marging-top: 2%;
+
+}
